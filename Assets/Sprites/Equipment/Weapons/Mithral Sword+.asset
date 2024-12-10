@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 583516209d187e040988d24c37163d21, type: 3}
+  m_Name: Mithral Sword+
+  m_EditorClassIdentifier: 
+  equipmentName: Mithral Sword+
+  icon: {fileID: 21300000, guid: b11b30fd5de3f9741a3e9fd3391281f3, type: 3}
+  rarity: epic
+  purchasePrice: 130
+  sellPrice: 65
+  itemTag: 1
+  attackBonus: 7
+  spellAttackBonus: 0
+  manaBonus: 0
+  defenseBonus: 0
+  speedBonus: 2
+  healthBonus: 0
+  description: A sword crafted from a rare Elven mineral and blessed by Dwarvish
+    clerics.

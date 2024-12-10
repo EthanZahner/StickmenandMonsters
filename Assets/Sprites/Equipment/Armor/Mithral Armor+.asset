@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 583516209d187e040988d24c37163d21, type: 3}
+  m_Name: Mithral Armor+
+  m_EditorClassIdentifier: 
+  equipmentName: Mithral Armor+
+  icon: {fileID: 21300000, guid: fec0de46d1a7a9e40af97e00750b2199, type: 3}
+  rarity: epic
+  purchasePrice: 105
+  sellPrice: 52
+  itemTag: 6
+  attackBonus: 1
+  spellAttackBonus: 1
+  manaBonus: 1
+  defenseBonus: 2
+  speedBonus: 3
+  healthBonus: 5
+  description: Light yet durable armor forged by the Elves. Moonstones decorate this
+    mail.
